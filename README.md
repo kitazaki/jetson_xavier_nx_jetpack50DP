@@ -1,0 +1,1 @@
+# jetson_xavier_nx_jetpack50DP
